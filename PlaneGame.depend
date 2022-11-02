@@ -210,7 +210,7 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-976645372 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+1617422286 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
@@ -225,4 +225,52 @@
 	<fstream>
 	<iostream>
 	<GL/glut.h>
+
+1665473025 source:d:\education\cse-4-2\cse-4207-graphics\project\planegame-opengl-cpp\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"RGBpixmap.cpp"
+
+1665473025 d:\education\cse-4-2\cse-4207-graphics\project\planegame-opengl-cpp\rgbpixmap.cpp
+	<fstream>
+	<iostream>
+	<GL/glut.h>
+
+1667275994 source:d:\education\cse-4-2\cse-4207-graphics\lab\project\planegame-opengl-cpp\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"RGBpixmap.cpp"
+	"BmpLoader.h"
+
+1665473025 d:\education\cse-4-2\cse-4207-graphics\lab\project\planegame-opengl-cpp\rgbpixmap.cpp
+	<fstream>
+	<iostream>
+	<GL/glut.h>
+
+1667233567 source:d:\education\cse-4-2\cse-4207-graphics\lab\project\planegame-opengl-cpp\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<assert.h>
+	<fstream>
+	<iostream>
+
+1667233436 d:\education\cse-4-2\cse-4207-graphics\lab\project\planegame-opengl-cpp\bmploader.h
+	<windows.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\assert.h
+	<_mingw.h>
 
